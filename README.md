@@ -2,7 +2,7 @@
 
 **Projekt: Anonimowe ankiety.**
 
-Celem projektu było stworzenie strony Internetowej zapewniającej anonimowość podczas wypełniania ankiet. Strona umożliwia użytkownikowi stworzenie ankiety wraz z hasłem, które pozwoli rozwiązwiązać ją w pełni anonimowy sposób. Użytkownik ma możliwość wglądu w odpowiedzi jakie zostały udzielone oraz otrzymuje informacje ile osób wypełniło ankietę. Tworzenie jej i uzupełnianie ankiety jest możliwe wyłącznie po uprzednim zalogowaniu się bądź zarejestrowaniu. Administrator ma możliwość usuwania każdej z utworzonych ankiet oraz podglądu rozwiązanych ankiet. Ponadto może on usuwać urzytkowników.
+Celem projektu było stworzenie strony Internetowej zapewniającej anonimowość podczas wypełniania ankiet. Strona umożliwia użytkownikowi stworzenie ankiety wraz z hasłem, które pozwoli rozwiązwiązać ją w pełni anonimowy sposób. Użytkownik ma możliwość wglądu w odpowiedzi jakie zostały udzielone oraz otrzymuje informacje ile osób wypełniło ankietę. Tworzenie jej i uzupełnianie ankiety jest możliwe wyłącznie po uprzednim zalogowaniu się bądź zarejestrowaniu. Administrator ma możliwość usuwania każdej z utworzonych ankiet oraz podglądu rozwiązanych ankiet. Ponadto może on usuwać użytkowników.
 
 
 ## Załączniki
